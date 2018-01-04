@@ -5,7 +5,7 @@ import ru.alfabank.dmpr.model.ChildEntity;
 import ru.alfabank.dmpr.model.cards.*;
 
 /**
- * Маппер, который используется на обоих витринах Карт ФЛ
+ * Маппер, который используется на обоих витринах Карт ФЛ!!
  */
 public interface CardsCommonFilterMapper {
     /**
