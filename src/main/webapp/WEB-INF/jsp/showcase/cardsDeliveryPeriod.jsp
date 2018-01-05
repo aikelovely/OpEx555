@@ -506,7 +506,7 @@
                         tooltip = percent + "%";
                         text = "{0} дн. ({1})".format(duration, data.cardCount);
                     }
-
+/*ghfhfg*/
                     return template.format(css, tooltip, text);
                 }
 
