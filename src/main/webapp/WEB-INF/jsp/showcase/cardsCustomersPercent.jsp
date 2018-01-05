@@ -416,7 +416,7 @@
 
                 $container.highcharts(getDynamicConfiguration(title, normativeOptions, filterData, series));
             }
-
+/*drhedt*/
             function getTableConfiguration(systemUnit, jsonData, filterData, detailInit) {
                 function formatCellValue(data) {
                     if (data === null) return "";

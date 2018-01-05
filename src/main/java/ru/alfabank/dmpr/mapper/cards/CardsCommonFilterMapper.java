@@ -14,6 +14,8 @@ public interface CardsCommonFilterMapper {
      */
     BaseEntity[] getMacroRegions();
 
+    /*ghbhjg*/
+
     /**
      * Возвращает список регионов
      * @return
@@ -90,5 +92,6 @@ public interface CardsCommonFilterMapper {
      * Возвращает список значений для фильтра "Тип ПУ"
      * @return
      */
-    ChildEntity[] getPYTypes();
+    ChildEntity4[] getPYTypes2();
 }
+/*rhgbdm*/
