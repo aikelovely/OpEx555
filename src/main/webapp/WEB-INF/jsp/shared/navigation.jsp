@@ -194,6 +194,8 @@
                         <li>
                             <a href='<c:url value="/showcase/leaderBoard2" />'>
                                 LeaderBoard
+                                <%----%>
+                                <%----%>
                             </a>
                         </li>
                         <% } else { %>
