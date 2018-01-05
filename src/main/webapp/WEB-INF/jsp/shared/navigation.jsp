@@ -236,6 +236,10 @@
                         </li>
                         <li class="nav-divider"></li>
                         <li>
+
+                            <%----%>
+                            <%----%>
+                                <%----%>
                             <a href='<c:url value="/showcase/qualityIndicatorsDss" />'>
                                 Оформление договорных документов кредита/гарантии. Декомпозиция
                             </a>
