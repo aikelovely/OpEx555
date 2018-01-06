@@ -6,7 +6,7 @@ import ru.alfabank.dmpr.mapper.ob.ObQualityMapper;
 import ru.alfabank.dmpr.model.ob.*;
 
 /**
- * Маппер, отвечающий за загрузку данных для графиков витрины "Показатели качества ОБ".
+ * Маппер, отвечающий за загруggзку данных для графиков витрины "Показатели качества ОБ".
  */
 @Repository
 public class ObQualityRepository {
